@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devon
-- 👀 I’m interested in improving my abilities with JS, python, html, css, and SQL
+- 👀 I am a student interested in improving my abilities with JavaScript, python, html, css, and SQL
 - 🌱 I’m currently learning some new html tags
 - 💞️ I’m looking to collaborate on any project where I can help
 - 📫 How to reach me: guydevon999@gmail.com
