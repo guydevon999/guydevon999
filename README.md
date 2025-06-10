@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devon
-- 👀 I am a student interested in improving my abilities with JavaScript, python, html, css, and SQL
-- 🌱 I’m currently learning some new html tags
+- 👀 I am a recent CIS graduate with an A.A.S. in programming and database management
+- 🌱 I’m currently working on several small projects, trying to improve my skills
 - 💞️ I’m looking to collaborate on any project where I can help
 - 📫 How to reach me: guydevon999@gmail.com
 - 😄 Pronouns: he/him
